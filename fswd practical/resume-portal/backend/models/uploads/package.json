@@ -1,0 +1,17 @@
+{
+    "name": "resume-portal-frontend",
+    "version": "0.1.0",
+    "scripts": {
+      "dev": "vite",
+      "start": "vite"
+    },
+    "dependencies": {
+      "axios": "^0.27.2",
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0"
+    },
+    "devDependencies": {
+      "@vitejs/plugin-react": "^2.0.0",
+      "vite": "^3.0.0"
+    }
+  }

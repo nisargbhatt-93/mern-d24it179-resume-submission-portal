@@ -1,0 +1,27 @@
+/* frontend/src/App.css */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #00698f;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    margin-bottom: 20px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #00698f;
+  }
+  
+  a:hover {
+    color: #003d5f;
+  }
